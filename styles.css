@@ -1,0 +1,33 @@
+.app-con{
+  padding:0;
+}
+.con-1{
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.con-2{
+   background-color: white;
+   display: flex;
+   justify-content: space-around;
+}
+.con-2 p{
+align-self: center;
+font-size: 28px;
+width:342px;
+line-spacing:2px;
+}
+.con-3{
+background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.con-3 p{
+width:500px;
+font-size:22px;
+text-align: center;
+}
